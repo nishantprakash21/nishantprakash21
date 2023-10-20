@@ -48,7 +48,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nishant-prakash-6844876a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-nishant-blue"></a>
-<a href="https://www.instagram.com/nishant.prakash/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-nishant.prakash-red"></a>
-<a href="https://twitter.com/nishantprakash0"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nishantprakash0-blue"></a>
+<a target="_blank" href="https://www.linkedin.com/in/nishant-prakash-6844876a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-nishant-blue"></a>
+<a target="_blank" href="https://www.instagram.com/nishant.prakash/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-nishant.prakash-red"></a>
+<a target="_blank" href="https://twitter.com/nishantprakash0"><img alt="Twitter" src="https://img.shields.io/badge/twitter-nishantprakash0-blue"></a>
 </p>
