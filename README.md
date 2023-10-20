@@ -13,7 +13,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
   ![JAVA](https://img.shields.io/badge/-Java-red?style=flat)
-  ![SPRING](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
+  ![SPRING](https://img.shields.io/badge/-Spring_Boot-000000?style=flat&logo=spring)
   ![.NET](https://img.shields.io/badge/-512BD4?style=flat&logo=.net)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
