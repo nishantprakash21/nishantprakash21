@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Fullstack Developer.
+- 🤔 &nbsp; Technical Architect.
 - 🔎 &nbsp; Exploring Digital Lending/Co-Lending World (FinTech) 
 - 💼 &nbsp; Exercised skills in: Building Trading Platforms, Trade from Charts, Technical Screeners, Thematic Investment Plans
 - 🌱 &nbsp; Learning more about Data Structures, Algorithms, and System Design.
